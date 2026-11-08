@@ -1,11 +1,10 @@
 ## Hi there 👋
 
-**Senior Data Engineer** with experience across **healthcare, financial services, and lending**, building scalable data pipelines and analytics-ready data models.
+**Senior Data Engineer** with 5+ years of experience across **healthcare, financial services, and lending**, building scalable data pipelines and analytics-ready data models.
 
-- 🔭 I’m currently working on: Healthcare data pipelines and analytics-ready datasets
-- 🌱 I’m currently learning: AI - GenAI, LLMs, and applying AI to data engineering
-- 👯 I’m looking to collaborate on: ETL/ELT, cloud modernization and analytics
-- 🤔 I’m looking for help with: Exchanging ideas on scalable data pipelines
+- 🔭 currently working on: -  Healthcare data pipelines (claims, EHR, eligibility data) on **[Azure/Snowflake]**, processing **5M+ records** for analytics and reporting
+- 🌱 currently learning: AI - GenAI, LLMs, and applying AI to data engineering
+- 👯 looking to collaborate on: - ETL/ELT pipelines, cloud migrations (e.g., on-prem → Snowflake/Azure), and analytics engineering with dbt
 - 💬 Ask me about: SQL, Python, PySpark, Snowflake, dbt, Azure
 - 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/manishabodapati/)
 - 😄 Pronouns: she/her
