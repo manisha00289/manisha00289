@@ -2,14 +2,14 @@
 
 **Senior Data Engineer** with experience across **healthcare, financial services, and lending**, building scalable data pipelines and analytics-ready data models.
 
-- 🔭 I’m currently working on - Healthcare data pipelines and analytics-ready datasets
-- 🌱 I’m currently learning - Data engineering, analytics and data modeling
-- 👯 I’m looking to collaborate on - ETL/ELT, cloud modernization and analytics
-- 🤔 I’m looking for help with - Exchanging ideas on scalable data pipelines
-- 💬 Ask me about - SQL, Python, PySpark, Snowflake, dbt, Azure
-- 📫 How to reach me - LinkedIn(https://www.linkedin.com/in/manishabodapati/)
-- 😄 Pronouns - she/her
-- ⚡ Fun fact - I enjoy turning complex datasets into clean, reliable, analytics-ready insights.
+- 🔭 I’m currently working on: Healthcare data pipelines and analytics-ready datasets
+- 🌱 I’m currently learning: AI - GenAI, LLMs, and applying AI to data engineering
+- 👯 I’m looking to collaborate on: ETL/ELT, cloud modernization and analytics
+- 🤔 I’m looking for help with: Exchanging ideas on scalable data pipelines
+- 💬 Ask me about: SQL, Python, PySpark, Snowflake, dbt, Azure
+- 📫 How to reach me: LinkedIn(https://www.linkedin.com/in/manishabodapati/)
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: Cooking taught me that prep is everything, and listening to stories taught me that every dataset has one. I bring both to every pipeline I build.
 
 ### 🛠️ Tech Stack
 
@@ -26,6 +26,8 @@
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
 
+**AI**
+![GenAI](https://img.shields.io/badge/GenAI-8A2BE2?style=flat&logo=openai&logoColor=white)
 ---
 
 ### 🚀 Featured Projects
