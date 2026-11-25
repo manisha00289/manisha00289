@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-**Senior Data Engineer** with 5+ years of experience across **healthcare, financial services, and lending**, building scalable data pipelines and analytics-ready data models.
+**Data Engineer** with 5+ years of experience across **healthcare, financial services, and lending**, building scalable data pipelines and analytics-ready data models.
 
 - 🔭 currently working on: -  Healthcare data pipelines (claims, EHR, eligibility data) on **[Azure/Snowflake]**, processing **5M+ records** for analytics and reporting
 - 🌱 currently learning: AI - GenAI, LLMs, and applying AI to data engineering
